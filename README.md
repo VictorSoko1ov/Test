@@ -13,8 +13,8 @@ This is a **test** *repo*
 # table
 
 |header 1 |header 2|
-|:---: |:---|---:|
-|text | text | text |
+|:---: |:---|
+|text | text |
 
 ```
 Code Block
